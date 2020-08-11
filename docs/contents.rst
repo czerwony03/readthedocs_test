@@ -8,6 +8,7 @@ INTRODUCTION
 
 .. toctree::
    :maxdepth: 2
+   :numbered:
 
 Thank you for choosing **Mint Service Desk**.
 
@@ -17,7 +18,7 @@ and configurations available in **MINT Service Desk**. This guide
 includes the customer, agent, and administrator interfaces along with
 all the configurations and changes that you can do in the system.
 
-MINT SERVICE DESK 2.0.3
+MINT SERVICE DESK
 -----------------
 
 **MINT Service Desk** is a service management solution to monitor,

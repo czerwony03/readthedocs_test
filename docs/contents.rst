@@ -17,7 +17,7 @@ and configurations available in **MINT Service Desk**. This guide
 includes the customer, agent, and administrator interfaces along with
 all the configurations and changes that you can do in the system.
 
-MINT SERVICE DESK
+MINT SERVICE DESK 2.0.3
 -----------------
 
 **MINT Service Desk** is a service management solution to monitor,
